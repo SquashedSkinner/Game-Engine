@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\build\CMakeFiles\9e259adde87b2958f8d31da29611fddf\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{311B24E3-B4F2-349B-8D6F-B08F3BA30919}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

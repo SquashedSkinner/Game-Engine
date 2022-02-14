@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\src\palmEngine\Component.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\src\palmEngine\Core.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\src\palmEngine\Entity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\src\palmEngine\Environment.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\src\palmEngine\Keyboard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\src\palmEngine\Model.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\src\palmEngine\MeshRenderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\src\palmEngine\Resource.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\src\palmEngine\Resources.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\src\palmEngine\Screen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\src\palmEngine\Shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\src\palmEngine\Sound.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\src\palmEngine\SoundSource.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\src\palmEngine\SphereCollider.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\src\palmEngine\TriangleRenderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\src\palmEngine\Trigger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\src\palmEngine\Transform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\src\palmEngine\Component.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\src\palmEngine\Core.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\src\palmEngine\Entity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\src\palmEngine\Environment.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\src\palmEngine\Keyboard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\src\palmEngine\Keys.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\src\palmEngine\Math.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\src\palmEngine\MeshRenderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\src\palmEngine\Model.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\src\palmEngine\palmEngine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\src\palmEngine\Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\src\palmEngine\Resources.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\src\palmEngine\Screen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\src\palmEngine\Shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\src\palmEngine\Sound.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\src\palmEngine\SoundSource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\src\palmEngine\SphereCollider.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\src\palmEngine\Transform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\src\palmEngine\TriangleRenderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\src\palmEngine\Trigger.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Joe\Documents\University\YEAR 3\Game Engine Programming\Assignment\palmEngine\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{9E6CBFE2-5BA9-3AB9-AB0B-2C1506CBE726}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6ADCCD02-1512-3E79-9F40-0C24DE0894EA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
